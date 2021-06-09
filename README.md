@@ -2,6 +2,13 @@
 
 Resources for dealing with [Autonomous System Numbers](https://www.arin.net/resources/guide/asn/) (ASN).
 
+## Canonical Repo Sources
+
+This repo is officially available from the following sources:
+
+* [GitLab](https://gitlab.com/egrieco/awesome-asn)
+* [GitHub](https://github.com/egrieco/awesome-asn)
+
 ## Articles and Howtos
 
 * [Top 6 ASN Lookup Tools to fetch Autonomous System Information](https://securitytrails.com/blog/asn-lookup)
