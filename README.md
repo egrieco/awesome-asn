@@ -13,6 +13,11 @@ Resources for dealing with [Autonomous System Numbers](https://www.arin.net/reso
 
 ## Lookup and Conversion Tools
 
+* [asn](https://github.com/nitefood/asn): ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation and geolocation lookup tool / Traceroute server
+* [asnip](https://github.com/harleo/asnip): ASN target organization IP range attack surface mapping for reconnaissance, fast and lightweight
+* [Asnlookup](https://github.com/yassineaboukir/Asnlookup): Leverage ASN to look up IP addresses (IPv4 & IPv6) owned by a specific organization for reconnaissance purposes, then run port scanning on it.
+* [asnrecon](https://github.com/orlyjamie/asnrecon): ASN reconnaissance script
+* [asnap](https://github.com/yukselberkay/asnap): asnap aims to render recon phase easier by providing updated data about which companies owns which ipv4 or ipv6 addresses and allows the user to automate initial port and service scanning.
 * [iptoasn-webservice](https://github.com/jedisct1/iptoasn-webservice): Web service to map IP addresses to Autonomous System Number information, using iptoasn.com (Rust)
 * [ip2asn](https://github.com/picatz/ip2asn): IP address to Autonomous System Number (Ruby)
 * [asn-lookup](https://github.com/adamalbers/asn-lookup): Bash script to lookup the Autonomous System Number of a domain. (Ruby)
